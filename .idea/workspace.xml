@@ -1,0 +1,609 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b1354b6b-5a42-46b1-ac20-681fcb4f44df" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="607">
+              <caret line="64" column="28" lean-forward="true" selection-start-line="64" selection-start-column="28" selection-end-line="64" selection-end-column="28" />
+              <folding>
+                <element signature="e#0#9#0" expanded="true" />
+                <marker date="1581408459888" expanded="true" signature="0:346" ph="..." />
+                <marker date="1581408459888" expanded="false" signature="0:380" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/evaluation/vos_evaluator.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="721">
+              <caret line="68" selection-start-line="68" selection-end-line="68" />
+              <folding>
+                <element signature="e#0#9#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>upsample</find>
+      <find>interpolate</find>
+      <find>print</find>
+      <find>720p</find>
+      <find>covest</find>
+      <find>asser</find>
+      <find>interpo</find>
+      <find>avera</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/models/agame_model.py" />
+        <option value="$PROJECT_DIR$/models/MANVOS_model.py" />
+        <option value="$PROJECT_DIR$/utils/debugging.py" />
+        <option value="$PROJECT_DIR$/models/IPVOS_model.py" />
+        <option value="$PROJECT_DIR$/models/BASE_model.py" />
+        <option value="$PROJECT_DIR$/models/PRVOS_model.py" />
+        <option value="$PROJECT_DIR$/dataset_loaders/ytvos_v2.py" />
+        <option value="$PROJECT_DIR$/trainers/vos_trainer.py" />
+        <option value="$PROJECT_DIR$/dataset_loaders/__init__.py" />
+        <option value="$PROJECT_DIR$/runfiles/main_runfile.py" />
+        <option value="$PROJECT_DIR$/local_config.py" />
+        <option value="$PROJECT_DIR$/dataset_loaders/dataset_utils.py" />
+        <option value="$PROJECT_DIR$/utils/stats.py" />
+        <option value="$PROJECT_DIR$/utils/tensor_utils.py" />
+        <option value="$PROJECT_DIR$/models/backbones/resnet.py" />
+        <option value="$PROJECT_DIR$/models/CRVOS_model.py" />
+        <option value="$PROJECT_DIR$/utils/readsaveimage.py" />
+        <option value="$PROJECT_DIR$/stats.py" />
+        <option value="$PROJECT_DIR$/utils/__init__.py" />
+        <option value="$PROJECT_DIR$/dataset_loaders/davis17_v2.py" />
+        <option value="$PROJECT_DIR$/test.py" />
+        <option value="$PROJECT_DIR$/evaluation/vos_evaluator.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="-210" />
+    <option name="y" value="125" />
+    <option name="width" value="1720" />
+    <option name="height" value="1105" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="CRVOS_test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CRVOS_test" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.mappings" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.symlinks" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.date" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="web.server" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Suhwan\PycharmProjects\CRVOS_test\utils" />
+      <recent name="C:\Users\Suhwan\PycharmProjects\CRVOS_test" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="main_runfile" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="CRVOS_test" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/runfiles" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/runfiles/main_runfile.py" />
+      <option name="PARAMETERS" value="--train" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.main_runfile" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b1354b6b-5a42-46b1-ac20-681fcb4f44df" name="Default Changelist" comment="" />
+      <created>1573536042075</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1573536042075</updated>
+      <workItem from="1573536043352" duration="1456000" />
+      <workItem from="1573537617034" duration="262000" />
+      <workItem from="1573537972129" duration="75000" />
+      <workItem from="1573570379863" duration="1842000" />
+      <workItem from="1573573330481" duration="35000" />
+      <workItem from="1573576287164" duration="486000" />
+      <workItem from="1573576865934" duration="60000" />
+      <workItem from="1573577846363" duration="50000" />
+      <workItem from="1573578456825" duration="8000" />
+      <workItem from="1573579005257" duration="353000" />
+      <workItem from="1573654454124" duration="71000" />
+      <workItem from="1573661432055" duration="48000" />
+      <workItem from="1573665084623" duration="430000" />
+      <workItem from="1573800514761" duration="3547000" />
+      <workItem from="1573809751770" duration="654000" />
+      <workItem from="1573812330964" duration="970000" />
+      <workItem from="1573816218013" duration="63000" />
+      <workItem from="1574066234093" duration="574000" />
+      <workItem from="1574081380659" duration="639000" />
+      <workItem from="1574082897765" duration="1343000" />
+      <workItem from="1574132730522" duration="112000" />
+      <workItem from="1574743728827" duration="283000" />
+      <workItem from="1574775784457" duration="265000" />
+      <workItem from="1574776230435" duration="32000" />
+      <workItem from="1574776286238" duration="15000" />
+      <workItem from="1574776554972" duration="763000" />
+      <workItem from="1574865487653" duration="432000" />
+      <workItem from="1575025153259" duration="2412000" />
+      <workItem from="1575359541906" duration="34000" />
+      <workItem from="1575359721421" duration="244000" />
+      <workItem from="1575680730558" duration="88000" />
+      <workItem from="1575681013670" duration="66000" />
+      <workItem from="1575695697188" duration="17000" />
+      <workItem from="1575709247475" duration="27000" />
+      <workItem from="1575711639523" duration="327000" />
+      <workItem from="1575814022227" duration="1113000" />
+      <workItem from="1575822317117" duration="592000" />
+      <workItem from="1576159466304" duration="10000" />
+      <workItem from="1576168314926" duration="11000" />
+      <workItem from="1576216296282" duration="9156000" />
+      <workItem from="1576244766488" duration="1656000" />
+      <workItem from="1576285351944" duration="65000" />
+      <workItem from="1576285435593" duration="145000" />
+      <workItem from="1576288960759" duration="2428000" />
+      <workItem from="1576590031121" duration="86000" />
+      <workItem from="1576600561319" duration="151000" />
+      <workItem from="1576676582626" duration="18000" />
+      <workItem from="1576677342064" duration="8272000" />
+      <workItem from="1576728594627" duration="641000" />
+      <workItem from="1576765215010" duration="6325000" />
+      <workItem from="1576771913103" duration="6000" />
+      <workItem from="1576811387518" duration="6753000" />
+      <workItem from="1576824113009" duration="527000" />
+      <workItem from="1576825562618" duration="1318000" />
+      <workItem from="1576829699211" duration="4555000" />
+      <workItem from="1576857444047" duration="3594000" />
+      <workItem from="1576861106293" duration="547000" />
+      <workItem from="1576893136456" duration="1431000" />
+      <workItem from="1576909481757" duration="17000" />
+      <workItem from="1576911101369" duration="602000" />
+      <workItem from="1576948111319" duration="1883000" />
+      <workItem from="1576984317286" duration="3696000" />
+      <workItem from="1577030673450" duration="413000" />
+      <workItem from="1577031577452" duration="830000" />
+      <workItem from="1577032470327" duration="1015000" />
+      <workItem from="1577036345688" duration="6115000" />
+      <workItem from="1577077917354" duration="2673000" />
+      <workItem from="1577088035281" duration="1715000" />
+      <workItem from="1577090614280" duration="242000" />
+      <workItem from="1577106997927" duration="13000" />
+      <workItem from="1577163627594" duration="757000" />
+      <workItem from="1577164840335" duration="5645000" />
+      <workItem from="1577174971860" duration="105000" />
+      <workItem from="1577197816423" duration="413000" />
+      <workItem from="1577210300983" duration="14000" />
+      <workItem from="1577210900415" duration="19000" />
+      <workItem from="1577210978118" duration="990000" />
+      <workItem from="1577216620336" duration="89000" />
+      <workItem from="1577282134684" duration="8000" />
+      <workItem from="1577282738842" duration="9000" />
+      <workItem from="1577284177155" duration="112000" />
+      <workItem from="1577334599699" duration="234000" />
+      <workItem from="1577334884573" duration="40000" />
+      <workItem from="1577340286706" duration="292000" />
+      <workItem from="1577340690054" duration="63000" />
+      <workItem from="1577340787887" duration="6000" />
+      <workItem from="1577361020993" duration="73000" />
+      <workItem from="1577368343809" duration="50000" />
+      <workItem from="1577369071617" duration="667000" />
+      <workItem from="1577375501983" duration="598000" />
+      <workItem from="1577407912420" duration="17000" />
+      <workItem from="1577408130377" duration="34000" />
+      <workItem from="1577408610325" duration="37000" />
+      <workItem from="1577411195453" duration="50000" />
+      <workItem from="1577417288201" duration="39000" />
+      <workItem from="1577417581117" duration="54000" />
+      <workItem from="1577419766379" duration="75000" />
+      <workItem from="1577420012020" duration="108000" />
+      <workItem from="1577420143628" duration="239000" />
+      <workItem from="1577420403923" duration="971000" />
+      <workItem from="1577421955239" duration="22000" />
+      <workItem from="1577422809884" duration="2066000" />
+      <workItem from="1577455041327" duration="5927000" />
+      <workItem from="1577508146100" duration="9102000" />
+      <workItem from="1577595610505" duration="2902000" />
+      <workItem from="1577598580304" duration="129000" />
+      <workItem from="1577598783161" duration="2970000" />
+      <workItem from="1577614174915" duration="28000" />
+      <workItem from="1577614262775" duration="55000" />
+      <workItem from="1577614370596" duration="3962000" />
+      <workItem from="1577631153327" duration="672000" />
+      <workItem from="1577632640826" duration="2691000" />
+      <workItem from="1577644663063" duration="2200000" />
+      <workItem from="1577670998616" duration="46000" />
+      <workItem from="1577671062876" duration="1561000" />
+      <workItem from="1577683223103" duration="647000" />
+      <workItem from="1577686440657" duration="93000" />
+      <workItem from="1577686567356" duration="10853000" />
+      <workItem from="1577705239189" duration="5555000" />
+      <workItem from="1577722737327" duration="126000" />
+      <workItem from="1577723358860" duration="796000" />
+      <workItem from="1577732730202" duration="9454000" />
+      <workItem from="1577875905869" duration="2182000" />
+      <workItem from="1577930888436" duration="2124000" />
+      <workItem from="1577939704951" duration="12000" />
+      <workItem from="1577941172535" duration="204000" />
+      <workItem from="1577943385858" duration="975000" />
+      <workItem from="1577945490841" duration="12000" />
+      <workItem from="1577946815601" duration="31000" />
+      <workItem from="1577946995896" duration="32000" />
+      <workItem from="1577947042647" duration="19000" />
+      <workItem from="1577947194840" duration="1803000" />
+      <workItem from="1577959204560" duration="73000" />
+      <workItem from="1577959370625" duration="842000" />
+      <workItem from="1577960438296" duration="31000" />
+      <workItem from="1577960644941" duration="287000" />
+      <workItem from="1577961036838" duration="4483000" />
+      <workItem from="1578015262720" duration="65000" />
+      <workItem from="1578015811091" duration="1940000" />
+      <workItem from="1578018978182" duration="193000" />
+      <workItem from="1578029238530" duration="660000" />
+      <workItem from="1578095632981" duration="29000" />
+      <workItem from="1578095891637" duration="10000" />
+      <workItem from="1578142754049" duration="10000" />
+      <workItem from="1578207265675" duration="835000" />
+      <workItem from="1578208118461" duration="17000" />
+      <workItem from="1578208179715" duration="608000" />
+      <workItem from="1578214951722" duration="18000" />
+      <workItem from="1578282041656" duration="10000" />
+      <workItem from="1578387630818" duration="52000" />
+      <workItem from="1578388326782" duration="103000" />
+      <workItem from="1578445633747" duration="136000" />
+      <workItem from="1578447647833" duration="37000" />
+      <workItem from="1578450349450" duration="52000" />
+      <workItem from="1578450650388" duration="85000" />
+      <workItem from="1578450948330" duration="23000" />
+      <workItem from="1578457728258" duration="519000" />
+      <workItem from="1578458448805" duration="5000" />
+      <workItem from="1578500038821" duration="26000" />
+      <workItem from="1578531883334" duration="874000" />
+      <workItem from="1578554040256" duration="599000" />
+      <workItem from="1578719968206" duration="21000" />
+      <workItem from="1578905448149" duration="66000" />
+      <workItem from="1578905948785" duration="14000" />
+      <workItem from="1578928038343" duration="627000" />
+      <workItem from="1579011546435" duration="1247000" />
+      <workItem from="1579057988884" duration="538000" />
+      <workItem from="1579072204915" duration="84000" />
+      <workItem from="1579449737789" duration="790000" />
+      <workItem from="1579451196578" duration="778000" />
+      <workItem from="1579453625699" duration="15000" />
+      <workItem from="1579502412592" duration="67000" />
+      <workItem from="1579504760390" duration="2887000" />
+      <workItem from="1579508974996" duration="13000" />
+      <workItem from="1579582656541" duration="10000" />
+      <workItem from="1579583011443" duration="487000" />
+      <workItem from="1579583707635" duration="4000" />
+      <workItem from="1579583802883" duration="5000" />
+      <workItem from="1579583981775" duration="23000" />
+      <workItem from="1579658351427" duration="374000" />
+      <workItem from="1579659679463" duration="609000" />
+      <workItem from="1579660332205" duration="127000" />
+      <workItem from="1579679812026" duration="439000" />
+      <workItem from="1579714976418" duration="26000" />
+      <workItem from="1579755692472" duration="180000" />
+      <workItem from="1579781734314" duration="10000" />
+      <workItem from="1579831082511" duration="466000" />
+      <workItem from="1579832415622" duration="353000" />
+      <workItem from="1579833017751" duration="1384000" />
+      <workItem from="1579854323164" duration="378000" />
+      <workItem from="1579878049284" duration="18000" />
+      <workItem from="1579881259299" duration="660000" />
+      <workItem from="1580007693781" duration="13000" />
+      <workItem from="1580090262638" duration="266000" />
+      <workItem from="1580136348429" duration="8000" />
+      <workItem from="1580136853945" duration="9000" />
+      <workItem from="1580307688839" duration="8000" />
+      <workItem from="1580444724457" duration="13000" />
+      <workItem from="1580445034089" duration="4949000" />
+      <workItem from="1580474235082" duration="9000" />
+      <workItem from="1580705976270" duration="8000" />
+      <workItem from="1581313565839" duration="5887000" />
+      <workItem from="1581332536611" duration="4000" />
+      <workItem from="1581407590839" duration="2263000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="229307000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2238806" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32936078" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32936078" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3997833" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="File Transfer" order="9" sideWeight="0.49865952" weight="0.30227518" />
+      <window_info anchor="bottom" id="Database Changes" order="10" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.32956153" />
+      <window_info anchor="bottom" id="Event Log" order="12" sideWeight="0.5013405" side_tool="true" weight="0.31354985" />
+      <window_info anchor="bottom" id="Python Console" order="13" weight="0.32936078" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Remote Host" order="3" visible="true" weight="0.17377399" />
+      <window_info anchor="right" id="SciView" order="4" weight="0.32995737" />
+      <window_info anchor="right" id="Database" order="5" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/AGAME$main_runfile.coverage" NAME="main_runfile Coverage Results" MODIFIED="1573537001987" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/runfiles" />
+    <SUITE FILE_PATH="coverage/CRVOS_16$main_runfile.coverage" NAME="main_runfile Coverage Results" MODIFIED="1579507605425" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/runfiles" />
+    <SUITE FILE_PATH="coverage/CRVOS_v4$main_runfile.coverage" NAME="main_runfile Coverage Results" MODIFIED="1577688935358" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/runfiles" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/README.md" />
+    <entry file="file://$PROJECT_DIR$/runfiles/davis_runfile.py" />
+    <entry file="file://$USER_HOME$/.PyCharm2019.1/system/remote_sources/-418140578/-696592527/torch/utils/data/sampler.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="149">
+          <caret line="146" column="8" selection-start-line="146" selection-start-column="8" selection-end-line="146" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharm2019.1/system/remote_sources/-418140578/-696592527/torch/nn/functional.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="2407" column="4" selection-start-line="2407" selection-start-column="4" selection-end-line="2407" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/utils/debugging.py" />
+    <entry file="file://$USER_HOME$/.PyCharm2019.1/system/remote_sources/-418140578/-696592527/torch/utils/data/dataloader.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="358">
+          <caret line="232" selection-start-line="232" selection-end-line="232" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharm2019.1/system/remote_sources/-418140578/-696592527/torch/utils/data/dataset.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="271">
+          <caret line="191" selection-start-line="191" selection-end-line="191" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharm2019.1/system/remote_sources/-418140578/-696592527/torchvision/transforms/transforms.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="941" column="6" selection-start-line="941" selection-start-column="6" selection-end-line="941" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/trainers/vos_trainer.py" />
+    <entry file="file://$PROJECT_DIR$/dataset_loaders/ytvos_v2.py" />
+    <entry file="file://$USER_HOME$/.PyCharm2019.1/system/remote_sources/-418140578/-696592527/torch/__init__.pyi">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="45" column="16" lean-forward="true" selection-start-line="45" selection-start-column="16" selection-end-line="45" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3/builtins.pyi">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/runfiles/main_runfile.py" />
+    <entry file="file://$PROJECT_DIR$/trainers/__init__.py" />
+    <entry file="file://$PROJECT_DIR$/utils/tensor_utils.py" />
+    <entry file="file://$PROJECT_DIR$/dataset_loaders/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="33" lean-forward="true" selection-start-column="33" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dataset_loaders/dataset_utils.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/evaluation/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/models/backbones/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/models/backbones/resnet.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="41" selection-start-line="2" selection-start-column="41" selection-end-line="2" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/models/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+          <folding>
+            <element signature="e#0#24#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/utils/stats.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="14" selection-start-column="14" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/stats.py" />
+    <entry file="file://$PROJECT_DIR$/utils/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+          <folding>
+            <element signature="e#0#28#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/utils/readsaveimage.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1349">
+          <caret line="78" column="27" selection-start-line="78" selection-start-column="27" selection-end-line="78" selection-end-column="27" />
+          <folding>
+            <element signature="e#0#16#0" expanded="true" />
+            <element signature="e#1337#1555#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dataset_loaders/davis17_v2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="835">
+          <caret line="72" column="35" selection-start-line="72" selection-start-column="35" selection-end-line="72" selection-end-column="35" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/models/CRVOS_model.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="56" column="32" lean-forward="true" selection-start-line="56" selection-start-column="32" selection-end-line="56" selection-end-column="32" />
+          <folding>
+            <element signature="e#0#35#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/local_config.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="607">
+          <caret line="64" column="28" lean-forward="true" selection-start-line="64" selection-start-column="28" selection-end-line="64" selection-end-column="28" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+            <marker date="1581408459888" expanded="true" signature="0:346" ph="..." />
+            <marker date="1581408459888" expanded="false" signature="0:380" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/evaluation/vos_evaluator.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="721">
+          <caret line="68" selection-start-line="68" selection-end-line="68" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
